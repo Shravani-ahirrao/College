@@ -1,0 +1,31 @@
+/* Add this CSS to your styles.css file */
+
+.sidebar {
+    background-color: #f8f9fa; /* Light grey background color */
+    padding: 20px;
+}
+
+.profile img {
+    border: 5px solid #fff; /* White border around the profile picture */
+}
+
+.profile h1 {
+    color: #343a40; /* Dark grey text color */
+}
+
+.job-title {
+    color: #6c757d; /* Light grey text color */
+}
+
+.contact-info h2, .skills h2, .social-links h2 {
+    color: #343a40; /* Dark grey heading color */
+}
+
+.contact-info p, .skills ul li, .social-links p {
+    color: #6c757d; /* Light grey text color */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bootstrap primary blue color */
+    border-color: #007bff; /* Bootstrap primary blue color */
+}
